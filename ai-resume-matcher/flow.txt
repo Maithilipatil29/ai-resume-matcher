@@ -1,0 +1,25 @@
+ai-resume-matcher/
+│
+├── app.py
+├── requirements.txt
+├── .env
+├── .gitignore
+├── README.md
+│
+├── data/
+│   └── sample_job_description.txt
+│
+├── src/
+│   ├── __init__.py
+│   ├── document_loader.py
+│   ├── text_processor.py
+│   ├── embeddings.py
+│   ├── vector_store.py
+│   ├── retriever.py
+│   ├── llm.py
+│   ├── prompts.py
+│   └── analyzer.py
+│
+└── tests/
+    ├── __init__.py
+    └── test_pipeline.py

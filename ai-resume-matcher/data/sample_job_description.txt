@@ -1,0 +1,21 @@
+We are looking for an AI Engineer to join our team.
+
+Responsibilities:
+
+Develop machine learning and artificial intelligence applications using Python.
+
+Build Generative AI applications using Large Language Models.
+
+Implement Retrieval Augmented Generation pipelines.
+
+Work with LangChain and vector databases.
+
+Develop APIs using FastAPI.
+
+Deploy applications using Docker.
+
+Experience with AWS or another cloud platform is preferred.
+
+Strong SQL knowledge is required.
+
+Experience with NLP, embeddings and semantic search is a plus.
