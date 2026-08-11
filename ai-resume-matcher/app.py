@@ -45,19 +45,19 @@ st.write(
 # SIDEBAR
 # ============================================================
 
-with st.sidebar:
+# with st.sidebar:
 
-    st.header("⚙️ Pipeline")
+#     st.header("⚙️ Pipeline")
 
-    st.write("📄 Document Parser")
-    st.write("🧹 Text Processing")
-    st.write("✂️ Text Chunking")
-    st.write("🤗 Sentence Transformers")
-    st.write("🔎 FAISS Vector Search")
-    st.write("📚 RAG")
-    st.write("🦜 LangChain")
-    st.write("🧠 GPT-OSS-120B")
-    st.write("📊 Streamlit")
+#     st.write("📄 Document Parser")
+#     st.write("🧹 Text Processing")
+#     st.write("✂️ Text Chunking")
+#     st.write("🤗 Sentence Transformers")
+#     st.write("🔎 FAISS Vector Search")
+#     st.write("📚 RAG")
+#     st.write("🦜 LangChain")
+#     st.write("🧠 GPT-OSS-120B")
+#     st.write("📊 Streamlit")
 
 
 # ============================================================
